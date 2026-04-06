@@ -14,3 +14,11 @@ modern dev practices
 -jobhunting
 --------------------
 Consistently - till i get job
+
+
+your next actions:
+
+1. Complete the full recording pf jobhunting sessions ( /learn/jobseeker-daily-startup)
+
+2. if you are already strong in core java, 1 JDBC application, then you continue in this trainee program.
+
