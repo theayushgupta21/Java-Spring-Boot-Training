@@ -31,3 +31,62 @@ You can add this project in resume & update in your profile work-experience sect
 - Daily tasks , during the dat , you would be required to work on project task -4/5hrs additional 
            6-7hrs
            5hrs
+
+tech skills
+
+Programming Languages: java
+framework: Spring & Spring boot , Spring validation, Sping JDBC
+Microservices Architecture, circuit breaker , eureka service registry
+
+containerization : Docker , Docker compose
+
+Ai-Assistend Development: Github Copilot , Claude , ChatGpt
+
+Restful API's : JSON ,cURL,Postman, Swagger
+
+Databased: Mysql(AWS , RDS)
+
+Messaging Technologies: kafka
+Cache technologies: redis
+
+Logging , debudding & troubleshooting : Eclipse, Slf4j with logBack
+Observability & Monitorng:Frafana , loki , prometheus m distributed tracing
+
+Security and authentication ;OAuth2.x , Basic  authentication
+
+
+
+
+
+
+
+
+other tools : jackson , lombok , mobaXterm
+
+
+its not about i know thus much , hire me.
+its about what companies need, do you kow that , then companies are intrested to hire .
+
+====================
+if i am not focused , success is hard.
+i am responsible for my success / failure
+
+
+i am responsible for my life
+
+:- project
+Payment intregration 
+
+Paypal
+
+when end custormer wants to pay with paypa; , our project comes in picture .
+
+code Payment intregration System (PIS).
+Merchant wanst its 
+
+
+Write few bullet points about : "Microservices"
+
+micro means that the part of small components 
+it describe the Architecture,
+it show the failure 
