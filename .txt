@@ -90,3 +90,11 @@ Write few bullet points about : "Microservices"
 micro means that the part of small components 
 it describe the Architecture,
 it show the failure 
+
+
+-Componentization via services
+
+Break 
+
+
+Api , webApi , Rest Api m Restful Webservices
